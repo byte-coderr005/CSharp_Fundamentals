@@ -1,0 +1,14 @@
+c:\Users\burak\OneDrive\Masaüstü\yazılım\Csharp\practice\p06\p06\bin\Debug\net8.0\p06.exe
+c:\Users\burak\OneDrive\Masaüstü\yazılım\Csharp\practice\p06\p06\bin\Debug\net8.0\p06.deps.json
+c:\Users\burak\OneDrive\Masaüstü\yazılım\Csharp\practice\p06\p06\bin\Debug\net8.0\p06.runtimeconfig.json
+c:\Users\burak\OneDrive\Masaüstü\yazılım\Csharp\practice\p06\p06\bin\Debug\net8.0\p06.dll
+c:\Users\burak\OneDrive\Masaüstü\yazılım\Csharp\practice\p06\p06\bin\Debug\net8.0\p06.pdb
+c:\Users\burak\OneDrive\Masaüstü\yazılım\Csharp\practice\p06\p06\obj\Debug\net8.0\p06.GeneratedMSBuildEditorConfig.editorconfig
+c:\Users\burak\OneDrive\Masaüstü\yazılım\Csharp\practice\p06\p06\obj\Debug\net8.0\p06.AssemblyInfoInputs.cache
+c:\Users\burak\OneDrive\Masaüstü\yazılım\Csharp\practice\p06\p06\obj\Debug\net8.0\p06.AssemblyInfo.cs
+c:\Users\burak\OneDrive\Masaüstü\yazılım\Csharp\practice\p06\p06\obj\Debug\net8.0\p06.csproj.CoreCompileInputs.cache
+c:\Users\burak\OneDrive\Masaüstü\yazılım\Csharp\practice\p06\p06\obj\Debug\net8.0\p06.dll
+c:\Users\burak\OneDrive\Masaüstü\yazılım\Csharp\practice\p06\p06\obj\Debug\net8.0\refint\p06.dll
+c:\Users\burak\OneDrive\Masaüstü\yazılım\Csharp\practice\p06\p06\obj\Debug\net8.0\p06.pdb
+c:\Users\burak\OneDrive\Masaüstü\yazılım\Csharp\practice\p06\p06\obj\Debug\net8.0\p06.genruntimeconfig.cache
+c:\Users\burak\OneDrive\Masaüstü\yazılım\Csharp\practice\p06\p06\obj\Debug\net8.0\ref\p06.dll
