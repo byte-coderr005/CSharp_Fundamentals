@@ -14,4 +14,4 @@ This repository contains information and resources about the C# programming lang
 Sorry for the lack of topics. I will add more content as I review.
 
 ## Author
-Created by [brkoztrk07](https://github.com/brkoztrk07).
+Created by https://github.com/byte-coderr005
