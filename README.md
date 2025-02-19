@@ -5,7 +5,7 @@ This repository contains information and resources about the C# programming lang
 ## Resources
 
 ### YouTube
-- **Gencay Yildiz**: C#, OOP & much more.
+
 
 ### Microsoft Learn
 - [C# Tour](https://learn.microsoft.com/en-us/dotnet/csharp/tour-of-csharp/): Official documentation and tutorials for learning C#.
