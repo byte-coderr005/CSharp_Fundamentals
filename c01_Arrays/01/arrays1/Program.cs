@@ -1,7 +1,7 @@
-﻿#region How to Create Array 
+﻿#region Dizi Tanımlama 
 //int[] arr = new int[arr.Length];
-// There are limitations in arrays, it is necessary to specify the number of elements first.
-int[] arr1 = new int[10]; // >> like here.
+//Dizilerde önceden eleman sayısını belirtmek gibi zorunluluklar vardır.
+int[] arr1 = new int[10]; // >> Burada oldugu gibi.
 #region 2. variation
 var number2 = new[] { 1, 2, 3, 4 };
 //var is assigned when array's members defined..
@@ -11,25 +11,31 @@ int[] values = new int[3]; //This is also calls on background CreateInstance Met
 Array values1 = Array.CreateInstance(typeof(int), 3); // We can also use this method.
 #endregion
 #endregion
-#region How to call Array element and assign a value.
+#region Dizideki elemanları çağırma.
 int[] yaslar = new int[] { 1, 3, 5, 7 };
-yaslar[3] = 5; // Its not have to be in order when assigning value.
+yaslar[3] = 5; // Dizi elemanı tanımlar ya da değiştirirken herhangi bir sırada olmak zorunda değildir.
 yaslar[2] = 16;
 yaslar[0] = 27;
-Console.WriteLine(yaslar); // You can not use array's name when calling them. Because Console.WriteLine 
-//calls ToString() method. Then Tostring method shows you a array's type and location on RAM.
-foreach (int i in yaslar) // This shows how you print the members arrays. You can use loops also.
+Console.WriteLine(yaslar); // dizileri çağırırken dizi adını doğrudan yazdıramayız.çünkü Console.WriteLine
+//ToString() metodunu çağırır. ToString() metodu da  Ram üzerindeki adresini gösterir.
+foreach (int i in yaslar) // Eğer elemanları yazdırmak istersek foreach for gibi döngü yapılarını kullanabiliriz.
     Console.WriteLine(i);
 #endregion
-#region Substring MEthod
-int[] values5 = new int[] { 2, 3, 5, 6, 7, 8 };
-
+#region Substring Methodu
+string text = "Merhaba Burak";
+string result = text.Substring(8); // Burak
+Console.WriteLine(result);
+//2 paremetreli Substring
+string text1 = "merhaba oop";
+string result1 = text1.Substring(3,3); //hab
+Console.WriteLine(result1);
 #endregion
-#region IndexOf Method on Arrays..
-//The IndexOf method is a query whether an element exists in the array or not.
+#region Indexof Methodu
+//dizide bir elemanın var olup olmadığı sorgusudur.
 string[] words = new string[3] { "Ali", "Jason", "Burak" };
-int index2 = Array.IndexOf(words, "Burak", 0, 3); // first parameter for ArrayName, Second is Start index, third one is count.
-//This method returns a index of element if its exists. If not, returned -1.
+int index2 = Array.IndexOf(words, "Burak", 0, 3); // ilk parametre dizi ismi, ikincisi başlangıc indeksi,
+// üçüncüsü ise ne kadar count.
+//Eğer eleman yoksa -1 döndürür.
 Console.WriteLine(index2);
 #endregion
 #region Reverse MEthod
