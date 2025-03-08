@@ -20,11 +20,12 @@
     static void C(in int a = 678){
 
     }
-    static void MyMethod() //Name of Method.
+    static void MyMethod() //Methodun imzası
     {
-        //Static: Means
-        //void:  means that this method does not have a return value.
-        System.Console.WriteLine("S.a");
+        //Static: Statik metotlar, yalnızca statik değişkenleri
+        //ve statik üyeleri kullanabilir. Sınıf adı üzerinden çağrılır.
+        //void:  geriye değer döndürmeyen metotların imzasında bulunur.
+        System.Console.WriteLine();
     }
 
 }
