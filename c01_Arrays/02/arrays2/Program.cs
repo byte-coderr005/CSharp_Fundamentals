@@ -1,27 +1,27 @@
-﻿//Array Define
+﻿//Dizi(Array) tanımlama
 
-#region First variation
+#region İlk Varyasyon
 int[] yaslar = new int[5];
 yaslar[2] = 453;
 #endregion
 
-#region Second variation
+#region İkinci varyasyon
 string[] thy = {"airbus","boeing"};
 #endregion
 
-#region Third variation
+#region Üçüncü Varyasyon
 char[] letter = new char[] {'b','c','d'};
 #endregion
 
-#region fourth variation
+#region Dorduncu Varyasyon
 string[] bikes = new string[3] {"kawasaki","honda","yamaha"};
 //when we defined array number, we have to assign it equal to array members
 
 #endregion
 
-#region BEST VARIATION
-var numbers = new[] {3,5,8}; //when you assign a array member int, char etc.. 
-//var variable changes to what you assigned to array member.
+#region En iyi Varyasyon
+var numbers = new[] {3,5,8}; //var değikeni ile tanımlama yapılırken, arrayin tipi belirtilmez.
+//Array elemanının tipini alır.
 #endregion
 #region Value Assignment 1
 Array arr = new int[3];
